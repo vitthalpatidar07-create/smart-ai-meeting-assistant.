@@ -1,0 +1,30 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Database
+*.db
+
+# Uploads
+backend/uploads/
+
+# Processed files
+backend/processed_audio/
+backend/reports/
+backend/meeting_vector_db/
+
+# IDE
+.vscode/
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
